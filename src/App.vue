@@ -58,7 +58,8 @@ export default defineComponent({
 <style>
 .main {
   margin: auto;
-  width: 80%;
+  width: 80vw;
+  word-break: break-all;
 }
 
 .box {
